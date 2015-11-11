@@ -1,0 +1,15 @@
+{
+  "name": "metal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "JP Wesselink <jpwesselink@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "natural": "^0.2.1"
+  }
+}
